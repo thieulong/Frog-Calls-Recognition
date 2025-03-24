@@ -1,0 +1,9 @@
+{
+  "input_dir": "Input",
+  "output_dir": "Output",
+  "model_dir": "Frog-Models",
+  "working_dir": "Output",
+  "model_choice": "perch_8",
+  "default_threshold": 2.5,
+  "detect_species": "All species"
+}

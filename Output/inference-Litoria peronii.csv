@@ -1,0 +1,4 @@
+filename, timestamp_s, label, logit
+Input/1.WAV,0.00,litoria_peronii,2.53
+Input/1.WAV,10.00,litoria_peronii,3.10
+Input/1.WAV,25.00,litoria_peronii,3.02
